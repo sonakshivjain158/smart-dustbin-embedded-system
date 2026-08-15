@@ -1,0 +1,4 @@
+Smart Dustbin Wokwi Simulation
+
+Project Link:
+https://wokwi.com/projects/new/arduino-uno
